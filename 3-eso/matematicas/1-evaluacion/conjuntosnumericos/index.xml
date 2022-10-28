@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conjuntos Numéricos on Matemáticas 3 ESO</title>
+    <link>https://matematicaseso.proyectoomega.es/3-eso/matematicas/1-evaluacion/conjuntosnumericos/</link>
+    <description>Recent content in Conjuntos Numéricos on Matemáticas 3 ESO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate><atom:link href="https://matematicaseso.proyectoomega.es/3-eso/matematicas/1-evaluacion/conjuntosnumericos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fracciones</title>
+      <link>https://matematicaseso.proyectoomega.es/3-eso/matematicas/1-evaluacion/conjuntosnumericos/fracciones/</link>
+      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      
+      <guid>https://matematicaseso.proyectoomega.es/3-eso/matematicas/1-evaluacion/conjuntosnumericos/fracciones/</guid>
+      <description>Teoria https://gohugohq.com/partials/emojis-shortcode-for-hugo/  Es un modo de representar divisiones, particiones o fragmentos de algo. Como los quesitos del trivial. Se representan así: $$\frac{número1}{numero2}$$ Es decir, por ejemplo: $$\frac{7}{8}$$
+ DATO: Los ipos de números usados en fracciones
+    WARNING: be careful to baz the quux before initializing the retro encabulator!    Pruebas con mermaid $$a_4 \ne b_4$$ $$(a-\frac{3}{8}a)$$
+ Note This is a note
+  Warning This is a warning</description>
+    </item>
+    
+  </channel>
+</rss>

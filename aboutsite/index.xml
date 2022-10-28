@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About This Site on Matemáticas 3 ESO</title>
+    <link>https://matematicaseso.proyectoomega.es/aboutsite/</link>
+    <description>Recent content in About This Site on Matemáticas 3 ESO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate><atom:link href="https://matematicaseso.proyectoomega.es/aboutsite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personalzación</title>
+      <link>https://matematicaseso.proyectoomega.es/aboutsite/customization/</link>
+      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      
+      <guid>https://matematicaseso.proyectoomega.es/aboutsite/customization/</guid>
+      <description>Matjax Está habilitado a través de layouts/partials/footer El css está sobre escrito en static/css/mystyle.css con !important En partials head es donde se carga el custom css
+cheatsheet https://jojozhuang.github.io/tutorial/mathjax-cheat-sheet-for-mathematical-notation/  https://jojozhuang.github.io/tutorial/mathjax-cheat-sheet-for-mathematical-notation/  https://bwaycer.github.io/hugo_tutorial.hugo/tutorials/mathjax/  https://docs.mathjax.org/en/v2.2-latest/CSS-styles.html  Be careful with &amp;lt; and &amp;gt; in math mode: they may be misinterpreted as HTML tags! The suggested workaround is to leave space on either side of them. An alternative is to use their command forms: \lt and \gt.</description>
+    </item>
+    
+  </channel>
+</rss>

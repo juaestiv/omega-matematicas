@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notificación Científica on Matemáticas 3 ESO</title>
+    <link>https://matematicaseso.proyectoomega.es/3-eso/matematicas/1-evaluacion/notacioncient%C3%ADfica/</link>
+    <description>Recent content in Notificación Científica on Matemáticas 3 ESO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate><atom:link href="https://matematicaseso.proyectoomega.es/3-eso/matematicas/1-evaluacion/notacioncient%C3%ADfica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ejercicios</title>
+      <link>https://matematicaseso.proyectoomega.es/3-eso/matematicas/1-evaluacion/notacioncient%C3%ADfica/notacioncientifica/</link>
+      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      
+      <guid>https://matematicaseso.proyectoomega.es/3-eso/matematicas/1-evaluacion/notacioncient%C3%ADfica/notacioncientifica/</guid>
+      <description>Recordatorio:
+ Si en un número movemos decimales a la izquiera lo que estamos haciendo es dividir por unidades de 10 tantas veces como queramos mover la coma. Es decir a multiplicar por 10 con exponente negativo por tanto para dejarlo igual hemos de multiplicar por 10 tantas veces como hayamos movido la coma.   Por ejemplo, queremos pasar de un 7642 a un formato de 7,642 en notiación científica.</description>
+    </item>
+    
+  </channel>
+</rss>
